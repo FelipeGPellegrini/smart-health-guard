@@ -1,0 +1,16 @@
+.imageApresentation {
+    margin: 40px auto;
+    width: 300px;
+    border-radius: 50%;
+    background-color: grey;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.389);
+}
+
+.imageApresentation img {
+    transition: all, 1.2s;
+}
+
+.imageApresentation img:hover {
+    transform: rotate(360deg);
+    scale: 120%;
+}

@@ -1,0 +1,13 @@
+header {
+    text-align: center;
+    background-color: rgb(44, 44, 44);
+    box-shadow: 5px 3px 10px rgba(0, 0, 0, 0.65);
+}
+
+header h1 {
+    color: rgb(0, 140, 255);
+    text-shadow: 1px 1px 5px rgb(0, 38, 255);
+    font-family: Agbalumo, sans-serif;
+    padding: 8px;
+}
+
