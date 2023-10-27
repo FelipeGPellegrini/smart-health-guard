@@ -15,6 +15,11 @@
     scale: 120%;
 }
 
+.description {
+    margin: auto;
+    max-width: 600px;
+}
+
 .description p {
     font-family: Montserrat, sans-serif;
     padding: 15px;
@@ -31,4 +36,30 @@
     text-align: center;
     color: rgb(0, 140, 255);
     
+}
+
+.target {
+    margin-top: 30px;
+    font-family: Montserrat, sans-serif;
+    text-align: center;
+    color: rgb(0, 140, 255);
+    width: 600px;
+    margin: 30px auto;
+}
+
+.target h2 {
+    margin-bottom: 15px;
+    text-shadow: 1px 1px 5px rgba(0, 38, 255, 0.524);
+}
+
+.targetItem { 
+    color: black;
+}
+
+.targetItem p {
+    padding: 10px;
+}
+
+.targetItem p::before {
+    content: "• ";
 }
