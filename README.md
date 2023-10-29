@@ -1,8 +1,13 @@
-# React + Vite
+# SmartHealthGuard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma lading page criada para simular um lançamento de um novo produto, nesse caso, um relógio inteligente.
 
-Currently, two official plugins are available:
+🖥️
+--
+![image](https://github.com/FelipeGPellegrini/smart-health-guard/assets/107892258/4652a3d1-2a3b-4f40-ab38-7f3a2cb666ec)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📱
+--
+![image](https://github.com/FelipeGPellegrini/smart-health-guard/assets/107892258/58406a10-d166-44b4-9d31-f92abec7885e)
+
+
