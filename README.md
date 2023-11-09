@@ -2,7 +2,7 @@
 
 Uma lading page criada para simular um lançamento de um novo produto, nesse caso, um relógio inteligente.
 
-No site contém informações que pode interessar os clientes, visando a venda do produto.
+No site contém informações que pode interessar os clientes, visando a venda do produto..
 
 🖥️
 --
